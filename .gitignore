@@ -18,3 +18,5 @@ Build
 *.xccheckout
 *.xcworkspace
 !default.xcworkspace
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcindex/db.xcindexdb-wal
