@@ -1,5 +1,6 @@
-_Store
-*/build/*
+# Xcode
+.DS_Store
+build/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -8,15 +9,13 @@ _Store
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
+#*.xcworkspace
+#!default.xcworkspace
 xcuserdata
 profile
 *.moved-aside
 DerivedData
-Build
 .idea/
-*.hmap
-*.xccheckout
-*.xcworkspace
-!default.xcworkspace
-*.xcodeproj/project.xcworkspace/xcuserdata
-*.xcindex/db.xcindexdb-wal
+*.xcuserstate
+# Pods - for those of you who use CocoaPods
+#Pods
