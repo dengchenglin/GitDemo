@@ -26,6 +26,7 @@
 		EB36BEC01DEBFC3B00351F65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB36BEC31DEBFC3B00351F65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB36BEC51DEBFC3B00351F65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB36BECB1DEEA7B000351F65 /* Test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				EB36BEB81DEBFC3B00351F65 /* AppDelegate.m */,
 				EB36BEBA1DEBFC3B00351F65 /* ViewController.h */,
 				EB36BEBB1DEBFC3B00351F65 /* ViewController.m */,
+				EB36BECB1DEEA7B000351F65 /* Test.h */,
 				EB36BEBD1DEBFC3B00351F65 /* Main.storyboard */,
 				EB36BEC01DEBFC3B00351F65 /* Assets.xcassets */,
 				EB36BEC21DEBFC3B00351F65 /* LaunchScreen.storyboard */,
@@ -309,6 +311,7 @@
 				EB36BECA1DEBFC3B00351F65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
