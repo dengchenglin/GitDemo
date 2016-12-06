@@ -37,6 +37,9 @@
     
 
     NSString *str1 = @"master1";
+    
+    
+    NSString *bug1 = @"bgix bug";
 
 }
 
