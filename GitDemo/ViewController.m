@@ -9,7 +9,6 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
 @end
 
 @implementation ViewController
@@ -31,7 +30,11 @@
     
     //第一次在dev上修改
     
-    NSString *str = @"master";
+
+    //第二次在dev上修改
+    
+    NSString *str = @"dev";
+
 }
 
 
