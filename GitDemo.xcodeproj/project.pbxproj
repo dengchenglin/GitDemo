@@ -13,6 +13,9 @@
 		EB36BEC11DEBFC3B00351F65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB36BEC01DEBFC3B00351F65 /* Assets.xcassets */; };
 		EB36BEC41DEBFC3B00351F65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB36BEC21DEBFC3B00351F65 /* LaunchScreen.storyboard */; };
 		EB36BECD1DEEA9BE00351F65 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB36BECC1DEEA9BE00351F65 /* ViewController.m */; };
+		EB74AF651DF6B778009ED878 /* BlockObject.m in Sources */ = {isa = PBXBuildFile; fileRef = EB74AF641DF6B778009ED878 /* BlockObject.m */; };
+		EB74AF681DF6B7AE009ED878 /* ViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = EB74AF671DF6B7AE009ED878 /* ViewController1.m */; };
+		EB74AF6B1DF6B9C3009ED878 /* NSTimer+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = EB74AF6A1DF6B9C3009ED878 /* NSTimer+YYAdd.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +30,12 @@
 		EB36BEC51DEBFC3B00351F65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB36BECB1DEEA7B000351F65 /* Test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
 		EB36BECC1DEEA9BE00351F65 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		EB74AF631DF6B778009ED878 /* BlockObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlockObject.h; sourceTree = "<group>"; };
+		EB74AF641DF6B778009ED878 /* BlockObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlockObject.m; sourceTree = "<group>"; };
+		EB74AF661DF6B7AE009ED878 /* ViewController1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController1.h; sourceTree = "<group>"; };
+		EB74AF671DF6B7AE009ED878 /* ViewController1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController1.m; sourceTree = "<group>"; };
+		EB74AF691DF6B9C3009ED878 /* NSTimer+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+YYAdd.h"; sourceTree = "<group>"; };
+		EB74AF6A1DF6B9C3009ED878 /* NSTimer+YYAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+YYAdd.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +72,12 @@
 				EB36BEB81DEBFC3B00351F65 /* AppDelegate.m */,
 				EB36BEBA1DEBFC3B00351F65 /* ViewController.h */,
 				EB36BECC1DEEA9BE00351F65 /* ViewController.m */,
+				EB74AF661DF6B7AE009ED878 /* ViewController1.h */,
+				EB74AF671DF6B7AE009ED878 /* ViewController1.m */,
+				EB74AF631DF6B778009ED878 /* BlockObject.h */,
+				EB74AF641DF6B778009ED878 /* BlockObject.m */,
+				EB74AF691DF6B9C3009ED878 /* NSTimer+YYAdd.h */,
+				EB74AF6A1DF6B9C3009ED878 /* NSTimer+YYAdd.m */,
 				EB36BECB1DEEA7B000351F65 /* Test.h */,
 				EB36BEBD1DEBFC3B00351F65 /* Main.storyboard */,
 				EB36BEC01DEBFC3B00351F65 /* Assets.xcassets */,
@@ -152,8 +167,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB74AF681DF6B7AE009ED878 /* ViewController1.m in Sources */,
 				EB36BECD1DEEA9BE00351F65 /* ViewController.m in Sources */,
 				EB36BEB91DEBFC3B00351F65 /* AppDelegate.m in Sources */,
+				EB74AF651DF6B778009ED878 /* BlockObject.m in Sources */,
+				EB74AF6B1DF6B9C3009ED878 /* NSTimer+YYAdd.m in Sources */,
 				EB36BEB61DEBFC3B00351F65 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
