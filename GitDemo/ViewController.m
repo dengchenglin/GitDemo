@@ -45,7 +45,11 @@
     NSString *work1 = @"work1";
     
     
+
     NSString *feature = @"feature";
+
+    NSString *stash = @"stash";
+
     //adgvladnlgs
 
 }
