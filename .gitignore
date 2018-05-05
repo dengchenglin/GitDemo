@@ -16,5 +16,6 @@ profile
 DerivedData
 .idea/
 *.xcuserstate
+xcshareddata
 # Pods - for those of you who use CocoaPods
 #Pods
